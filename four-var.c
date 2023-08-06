@@ -22,21 +22,21 @@ main()
 		{
 			if(a>d)
 			{
-				printf("a is maximum",a);	
+				printf("a is maximum");	
 			}
 			else
 			{
-				printf("d is maximum",d);
+				printf("d is maximum");
 			}	
 		}
 		else
 		{
 			if(c>d)
 			{
-			printf("c is maximum",c);	
+			printf("c is maximum");	
 			}	
 			else{
-				printf("d is maximum",d);	
+				printf("d is maximum");	
 			}
 		}
 	}
@@ -46,21 +46,21 @@ main()
 		{
 			if(b>d)
 			{
-				printf("b is maximum",b);	
+				printf("b is maximum");	
 			}
 			else
 			{
-				printf("d is maximum",d);
+				printf("d is maximum");
 			}	
 		}
 		else
 		{
 			if(c>d)
 			{
-				printf("c is maximum",c);	
+				printf("c is maximum");	
 			}	
 			else{
-				printf("d is maximum",d);	
+				printf("d is maximum");	
 			}
 		}
 	}
