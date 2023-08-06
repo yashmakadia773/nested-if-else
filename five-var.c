@@ -26,7 +26,7 @@ main()
 			{
 				if(a<e)
 				{
-					printf(" a is minmum",a);
+					printf(" a is minmum");
 				}
 				else
 				{
@@ -37,11 +37,11 @@ main()
 			{
 				if( d<e)
 				{
-				printf(" d is minmum",d);	
+				printf(" d is minmum");	
 				} 
 				else
 				{
-					printf(" e is minmum",e);	
+					printf(" e is minmum");	
 				}
 					
 			}
@@ -52,18 +52,18 @@ main()
 			{
 				if(c<e)
 				{
-					printf("c is minmum",c);
+					printf("c is minmum");
 				}
 				else 
 				{
-					printf("e is minmum",e);	
+					printf("e is minmum");	
 				}
 			}
 			else
 			{
 				if(d<e)
 				{
-					printf("d is minmum ",d);
+					printf("d is minmum ");
 						
 				}
 				else
@@ -82,7 +82,7 @@ main()
 			{
 				if(b<e)
 				{
-					printf(" b is minmum",a);
+					printf(" b is minmum");
 				}
 				else
 				{
@@ -93,11 +93,11 @@ main()
 			{
 				if( d<e)
 				{
-				printf(" d is minmum",d);	
+				printf(" d is minmum");	
 				} 
 				else
 				{
-					printf(" e is minmum",e);	
+					printf(" e is minmum");	
 				}
 					
 			}
@@ -108,20 +108,20 @@ main()
 		 	{
 				if(c<e) 
 				{
-				printf("c is minmum",c);	
+				printf("c is minmum");	
 				}
 				else{
-				printf("e is minmum",e);
+				printf("e is minmum");
 				}	
 		 }
 			 else
 		 	{
 			 	if(d<e)
 			 	{
-			 		printf("d is minmum",d);
+			 		printf("d is minmum");
 				}
 				else{
-					printf(" e is minmum",e);
+					printf(" e is minmum");
 				}
 		 	}	
 		}
