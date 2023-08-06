@@ -18,22 +18,22 @@ main()
 	{
 		if(a<c)
 		{
-			printf("a is mimmun",a);
+			printf("a is mimmun");
 		}
 		else
 		{
-			printf("c is minmum",c);
+			printf("c is minmum");
 		}
 	}
 	else
 	{
 		if(b<c)
 		{
-			printf("b is minmum ",b);
+			printf("b is minmum ");
 		}
 		else
 		{
-				printf("c is minmum",c);
+				printf("c is minmum");
 		}
 	}
 	
